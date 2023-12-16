@@ -1,6 +1,6 @@
 
-body {
-    
+html, body {
+    overflow-x: hidden;
     scroll-behavior: smooth;
     background: #5FBDFF;
     background: linear-gradient(90deg, #96EFFF 20%,#5FBDFF 85%),url();
