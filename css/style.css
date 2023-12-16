@@ -262,7 +262,7 @@ figure .blockquote-footer {
     transform: scale(1.1);
     transition: .4s;
 }
-.p{
+.p p{
     font-size: 0.5rem;
     font-family: "Poppins", sans-serif;
     font-weight:200;
